@@ -21,7 +21,7 @@ h4 {
 }
 
 .container {
-    width: 1550px;
+    width: 1600px;
     max-width: calc(100% - 48px);
     margin: 0 auto;
 }
