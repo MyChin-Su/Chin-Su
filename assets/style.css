@@ -294,10 +294,9 @@ svg {
     justify-content: center;
     background-image: url(../img/open-img.jpg);
     background-size: cover;
-
+    width: 50%;
     display: flex;
     background-position: center;
-    width: 50%;
     height: 360px;
 }
 
@@ -317,9 +316,29 @@ svg {
 .open__body {
     background-image: url(../img/open.png);
     background-size: contain;
+    background-repeat: no-repeat;
     height: 360px;
     padding: 73px 144px;
     flex-grow: 1;
+}
+
+.proceduce {
+    /* background-image: url("../img/sanXuat.jpg"); */
+    background-image: url();
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 360px;
+    padding: 73px 144px;
+    flex-grow: 1;
+}
+
+.proceduce-open {
+    background-image: url(../img/sanXuat.png);
+    background-size: cover;
+}
+
+.proceduce__content {
+    margin-left: 100px;
 }
 
 .menu {
