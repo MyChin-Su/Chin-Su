@@ -387,8 +387,8 @@ svg {
 }
 
 .open__body {
-    background-image: url(../img/open.png);
-    background-size: contain;
+    background-image: url(../img/open.jpeg);
+    background-size: cover;
     background-repeat: no-repeat;
     height: 400px;
     padding: 73px 144px;
