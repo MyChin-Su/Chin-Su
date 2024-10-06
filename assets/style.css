@@ -103,6 +103,7 @@ a:active {
 }
 
 .nav__item-link {
+    font-size: 13px;
     text-decoration: none;
     color: white; /* Link color */
     font-weight: bold;
